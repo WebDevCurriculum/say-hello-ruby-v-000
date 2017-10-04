@@ -1,4 +1,6 @@
 # Build your say_hello method here
-def say_hello 
-
+#method should take two arguments - one required and one optional/default 
+# be sure to place the default argument at the end of the argument list 
+def say_hello()
+  
 end
